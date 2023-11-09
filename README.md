@@ -86,7 +86,7 @@
   <a href="https://facebook.com/hona.phm" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hona-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
+  <a href="https://www.youtube.com/channel/UCO0TwL__5z6aseFREu7WeoQ" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="hona-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/hona-phm" target="blank">
